@@ -1,4 +1,5 @@
 package UI;
+import Drives.DriveOptions;
 import net.samuelcampos.usbdrivedetector.USBStorageDevice;
 import javax.swing.*;
 
